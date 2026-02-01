@@ -158,7 +158,7 @@ export default function App() {
           <>
             <h1>Yay! See you on 14th Feb, my love 💜</h1>
             <img
-              src="src/assets/bubu-dudu.gif"
+              src="https://media.tenor.com/X-2n9ufiI_wAAAAM/bubu-dudu.gif"
               alt="Cute sticker"
               className="sticker"
             />
